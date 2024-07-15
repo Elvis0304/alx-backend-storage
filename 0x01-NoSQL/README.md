@@ -1,7 +1,6 @@
-Curriculum <br>
-**Short Specializations** <br>
+**Short Specializations** 
 
-# 0x01. NoSQL advanced
+# 0x01. NoSQL 
 
 `Back-end` `NoSQL` `MongoDB`
 
@@ -109,4 +108,3 @@ bye
 $
 ```
 
-## Finally...
